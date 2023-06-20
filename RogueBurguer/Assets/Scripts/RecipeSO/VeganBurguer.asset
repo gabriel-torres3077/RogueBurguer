@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8423c3a2eb4687345b20385985e980ca, type: 3}
+  m_Name: VeganBurguer
+  m_EditorClassIdentifier: 
+  recipeName: Cheese burguer
+  kitchenObjectSOList:
+  - {fileID: 11400000, guid: 918e2dc6cdd1fdb4491203ee9df52d92, type: 2}
+  - {fileID: 11400000, guid: aac50a77268cbd745817c05f4b892317, type: 2}
+  - {fileID: 11400000, guid: b7e1c9ba49538374ea6c18ea6698d9e6, type: 2}
